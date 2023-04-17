@@ -16,8 +16,9 @@ public class CryptUtils {
     private final static String SHA = "SHA1";
 
     public static void main(String args[]){
-    	System.out.println( md5("123") );
-    	System.out.println( sha("222222") );
+//    	System.out.println( md5("123") );
+//    	System.out.println( sha("222222") );
+        System.out.println(CryptUtils.sha("bigdata@2021", "admin").toUpperCase());
     }
 
 	public static String md5(String source) {

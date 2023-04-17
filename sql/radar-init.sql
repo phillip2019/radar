@@ -692,5 +692,5 @@ CREATE TABLE `users` (
 -- ----------------------------
 -- Records of users
 -- ----------------------------
-INSERT INTO `users` VALUES ('1', 'admin', '223CE7B851123353479D85757FBBF4E320D1E251', 'pgmmer.top', '1', '2019-07-24 18:10:11', '2019-07-24 18:10:14');
+INSERT INTO `users` VALUES ('1', 'admin', '223CE7B851123353479D85757FBBF4E320D1E251', 'risk.chinagoods.com', '1', '2019-07-24 18:10:11', '2019-07-24 18:10:14');
 INSERT INTO `users` VALUES ('2', 'test', 'B2478239CD7E68E8052398D8EB87D385BF962085', 'ting.pgmmer.top', '1', '2019-07-24 18:15:30', '2019-07-24 18:15:33');
